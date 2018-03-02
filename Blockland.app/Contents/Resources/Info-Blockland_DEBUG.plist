@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>English</string>
+	<key>CFBundleExecutable</key>
+	<string>Blockland_DEBUG</string>
+	<key>CFBundleGetInfoString</key>
+	<string>©2007 Step 1: Games LLC</string>
+	<key>CFBundleIconFile</key>
+	<string>Blockland.icns</string>
+	<key>CFBundleIdentifier</key>
+	<string>org.step1.blockland</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>Blockland Debug</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>13m ©2007 Step 1: Games LLC</string>
+	<key>CFBundleSignature</key>
+	<string>BLoc</string>
+	<key>CFBundleVersion</key>
+	<string>13m</string>
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleURLName</key>
+			<string>blockland debug URL</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>blockland</string>
+			</array>
+		</dict>
+	</array>
+	<key>LSPrefersCarbon</key>
+	<true/>
+</dict>
+</plist>
