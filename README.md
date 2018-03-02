@@ -1,8 +1,8 @@
 # Blockland v20 for Mac
 A native Mac version of Blockland v20.
 
-## Running
-Place the files anywhere and run `run.command` if you want to play the game, `dedicated.command` or `dedicatedLAN.command` for hosting online or LAN games without running a client.
+## Getting Started
+Place the Blockland v20 foldre anywhere and run `run.command` if you want to play the game, `dedicated.command` or `dedicatedLAN.command` for hosting dedicated servers in either online or LAN mode.
 
 ***
 
